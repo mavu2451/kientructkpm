@@ -1,7 +1,0 @@
-com\example\shopproject\service\ProductService.class
-com\example\shopproject\repository\ProductRepositoryImpl.class
-com\example\shopproject\repository\ProductRepository.class
-com\example\shopproject\controller\ProductRest.class
-com\example\shopproject\ShopprojectApplication.class
-com\example\shopproject\model\Products.class
-com\example\shopproject\config\RedisConfig.class
